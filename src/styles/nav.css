@@ -1,0 +1,20 @@
+.nav {
+  border-bottom: .5px solid #777;
+  display: flex;
+  align-items: center;
+  font-family: 'lato', sans-serif;
+}
+.siteName {
+  font-size: 1.5rem;
+  padding-right: 10px;
+  border-right: .5px solid #777;
+  font-family: 'Unbounded', cursive;
+}
+.siteName span {
+  color: #eab308;
+  font-family: 'Caramel', cursive;
+  font-size: 2rem;
+}
+.siteSlogan {
+  padding-left: 10px;
+}
