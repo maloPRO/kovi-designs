@@ -2,12 +2,16 @@
   border-bottom: .5px solid #777;
   display: flex;
   align-items: center;
+  justify-content: space-between;
   font-family: 'lato', sans-serif;
+}
+.siteDetails {
+  display: flex;
 }
 .siteName {
   font-size: 1.5rem;
   padding-right: 10px;
-  border-right: .5px solid #777;
+  border-right: .5px solid #999;
   font-family: 'Unbounded', cursive;
 }
 .siteName span {
@@ -17,4 +21,13 @@
 }
 .siteSlogan {
   padding-left: 10px;
+}
+.comms {
+  display: flex;
+  gap: 10px;
+  font-weight: 600;
+}
+.comms div:hover {
+  cursor: pointer;
+  color: #eab308;
 }
