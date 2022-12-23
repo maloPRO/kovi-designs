@@ -2,6 +2,6 @@
   width: 100vw;
   height: 100vh;
   display: grid;
-  grid-template: .5fr 5fr / 1fr;
+  grid-template: .5fr .3fr 5fr / 1fr;
   padding: 0 10rem;
 }
