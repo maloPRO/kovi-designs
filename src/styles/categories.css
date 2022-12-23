@@ -1,0 +1,17 @@
+.categories {
+  display: flex;
+  justify-content: center;
+  font-family: 'poppins', cursive;
+  font-size: 1.1rem;
+}
+.categories ul {
+  display: flex;
+}
+.categories ul li {
+  padding: 5px 10px;
+  list-style: none;
+}
+.categories ul li:hover {
+  cursor: pointer;
+  color: #eab308;
+}
