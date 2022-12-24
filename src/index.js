@@ -7,6 +7,7 @@ import Beds from "./components/beds";
 import Sofas from "./components/sofas";
 import Dining from "./components/dining";
 
+
 const router  = createBrowserRouter([
   {
     path: '/',

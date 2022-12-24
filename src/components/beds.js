@@ -1,16 +1,20 @@
 import React from "react";
 import Nav from "./nav";
-import '../styles/beds.css';
+import Categories from "./categories";
+import '../styles/categories.css';
 
 const Beds = () => {
 
   return (
-      <div className="beds">
+    <div>
       <Nav />
-      <div>
-        <h1>Beds</h1>
+      <Categories />
+      <div className="beds">
+        <h1 className="categoryTitle">Beds</h1>
+        <div className="categoryDisplay"></div>
       </div>
-      </div>
+    </div> 
+
   )
 }
 
