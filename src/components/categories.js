@@ -1,41 +1,53 @@
 import React, { useState } from "react";
 import uniqid from 'uniqid';
 import '../styles/categories.css';
+import { Link } from 'react-router-dom';
 
 const Categories = (props) => {
+
+
   const [categories] = useState(
      [
       {
-        name: 'bedroom',
+        name: 'beds',
+        id: uniqid(),
+        link: `/beds/`
+      },
+      {
+        name: 'sofas',
+        id: uniqid(),
+        link: `/sofas/`
+      },
+      {
+        name: 'tables',
         id: uniqid()
       },
       {
         name: 'dining',
-        id: uniqid()
+        id: uniqid(),
+
       },
       {
-        name: 'living',
-        id: uniqid()
+        name: 'tv stands',
+        id: uniqid(),
+        
       },
       {
-        name: 'office',
-        id: uniqid()
+        name: 'door fittings',
+        id: uniqid(),
+      
       },
-      {
-        name: 'kitchen',
-        id: uniqid()
-      }
     ]
   );
 
   const categoryList = categories.map((category) => 
-    <li key={category.id}>{category.name}</li>
+    <Link to={category.link} key={category.id} className='category'>{category.name}</Link>
   )
 
 
   return (
     <div className="categories">
-      <ul>{categoryList}</ul>
+      <div>{categoryList}</div>
     </div>
   )
 }
