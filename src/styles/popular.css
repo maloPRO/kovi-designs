@@ -1,0 +1,44 @@
+.popular {
+  padding-top: 10px;
+}
+.popular h3 {
+  padding: 5px 0;
+  color: #333;
+}
+.popContainer {
+  width: 100%;
+  height: 16rem;
+  display: grid;
+  grid-template: 1fr / repeat(3, 1fr);
+  gap: 5px;
+  padding: 10px 0;
+}
+.popContainer div {
+  font-family: 'Lato', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-shadow: 2px 2px #555;
+  color: #fff;
+  display: grid;
+  align-items: flex-end;
+  padding: 20px;
+  outline: .5px solid #999;
+  background-size: cover;
+  
+}
+.popContainer div:hover {
+  cursor: pointer;
+}
+
+@media (max-width: 500px) {
+  .popular {
+    padding: .5rem 0;
+    height: 100%;
+    width: 100%;
+  }
+  .popContainer {
+    grid-template: repeat(3, 1fr) / 1fr;
+    
+  }
+
+}
