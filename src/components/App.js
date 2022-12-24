@@ -4,6 +4,7 @@ import uniqid from 'uniqid';
 import Nav from "./nav";
 import Categories from "./categories";
 import HomeDisplay from "./homeDisplay";
+import Popular from "./popular";
 
 const App = () => {
   const categories = [
@@ -34,6 +35,7 @@ const App = () => {
       <Nav />  
       <Categories categories = {categories} />
       <HomeDisplay />
+      <Popular />
     </div>
   )
 }
