@@ -1,7 +1,16 @@
 .app {
   width: 100vw;
-  height: 100vh;
-  display: grid;
-  grid-template: .5fr .3fr 5fr / 1fr;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   padding: 0 10rem;
+}
+
+@media (max-width: 500px) {
+  .app {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    padding: 0 .3rem;
+  }
 }
