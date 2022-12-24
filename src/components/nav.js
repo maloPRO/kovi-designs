@@ -7,7 +7,7 @@ const Nav = () => {
   return (
     <div className="nav">
       <div className='siteDetails'>
-      <div className='siteName'>Kovi <span>Designs</span></div>
+      <Link to={'/'} className='siteName'>Kovi <span>Designs</span></Link>
       <div className='siteSlogan'>
         <p>Modern furniture</p>
         <p>for home & office</p>
