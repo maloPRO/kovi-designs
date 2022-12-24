@@ -4,3 +4,18 @@
   padding: 0;
   box-sizing: border-box;
 }
+#root {
+  width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding: 0 10rem;
+}
+@media (max-width: 500px) {
+  #root {
+    width: 100vw;
+    min-height: 100vh;
+    display: flex;
+    padding: 0 .3rem;
+  }
+}
