@@ -30,10 +30,16 @@
   gap: 10px;
   font-weight: 600;
 }
-.comms div:hover {
+
+.navLink {
+  text-decoration: none;
+  color: #333;
+}
+.navLink:hover {
   cursor: pointer;
   color: #eab308;
 }
+
 
 @media (max-width: 500px) {
   .nav {
