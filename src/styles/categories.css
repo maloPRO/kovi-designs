@@ -42,7 +42,7 @@
   flex-direction: column;
   justify-items: center;
   grid-template: 3fr .1fr .10fr / 1fr;
-  background-color: #888;
+  background-color: #666;
   color: #fff;
   font-family: 'Lato', sans-serif;
   box-shadow: 2px 2px 3px #555;
