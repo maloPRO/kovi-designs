@@ -6,7 +6,7 @@ import './styles/index.css';
 import Beds from "./components/beds";
 import Sofas from "./components/sofas";
 import Dining from "./components/dining";
-
+import Tables from "./components/tables";
 
 const router  = createBrowserRouter([
   {
@@ -24,6 +24,10 @@ const router  = createBrowserRouter([
   {
     path: '/dining',
     element: <Dining />
+  },
+  {
+    path: '/tables',
+    element: <Tables />
   }
 ])
 

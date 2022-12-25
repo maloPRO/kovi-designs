@@ -20,7 +20,8 @@ const Categories = (props) => {
       },
       {
         name: 'tables',
-        id: uniqid()
+        id: uniqid(),
+        link: '/tables/'
       },
       {
         name: 'dining',
