@@ -5,7 +5,6 @@ import uniqid from 'uniqid';
 import table from '../images/items/table.jpg';
 import table1 from '../images/items/table1.jpg';
 import table2 from '../images/items/table2.jpg';
-import table3 from '../images/items/sample.webp';
 import '../styles/categories.css';
 
 const Tables = () => {
@@ -28,12 +27,6 @@ const Tables = () => {
       image: `${table2}`,
       id: uniqid(),
       price: 'KES 10,700'
-    },
-    {
-      name: 'Ventura table',
-      image: `${table3}`,
-      id: uniqid(),
-      price: 'KES 35,000'
     },
   ]);
 
