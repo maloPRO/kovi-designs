@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/kovi-designs/static/css/main.deaf51bd.css",
-    "main.js": "/kovi-designs/static/js/main.e59d8300.js",
-    "static/media/bg.jpg": "/kovi-designs/static/media/bg.d69bbe3b19153541a1f7.jpg",
-    "static/media/bg2.jpg": "/kovi-designs/static/media/bg2.6427d3dac98d4bde9e67.jpg",
-    "static/media/bg1.jpg": "/kovi-designs/static/media/bg1.464f843922b808e445d4.jpg",
-    "static/media/bed1.jpg": "/kovi-designs/static/media/bed1.beac9b247592fc25d28e.jpg",
-    "static/media/sofa3.jpg": "/kovi-designs/static/media/sofa3.7cd0e1e1eace30d2b3cf.jpg",
-    "static/media/sofa.jpg": "/kovi-designs/static/media/sofa.75d5d7ae87e4a7afe199.jpg",
-    "static/media/beds.jpg": "/kovi-designs/static/media/beds.63b63c68a4ce9719bb48.jpg",
-    "static/media/dining.jpg": "/kovi-designs/static/media/dining.fdf2cf97504a32bf3a1f.jpg",
-    "static/media/bed2.jpg": "/kovi-designs/static/media/bed2.11d6401cb5bdc96057e0.jpg",
-    "static/media/table.jpg": "/kovi-designs/static/media/table.f88330ef55358801b7d1.jpg",
-    "static/media/table2.jpg": "/kovi-designs/static/media/table2.149b6010c0858931b4f3.jpg",
-    "static/media/bed3.jpg": "/kovi-designs/static/media/bed3.bbd3d8cec583f8cad0a7.jpg",
-    "static/media/bed.jpg": "/kovi-designs/static/media/bed.a190ea4c053eace5adf4.jpg",
-    "static/media/sofa1.jpg": "/kovi-designs/static/media/sofa1.655b12bf836dbd3435c2.jpg",
-    "static/media/sofa2.jpg": "/kovi-designs/static/media/sofa2.e5d71456b583e25be33c.jpg",
-    "static/media/table1.jpg": "/kovi-designs/static/media/table1.05deda6dd9acfd279101.jpg",
-    "index.html": "/kovi-designs/index.html",
-    "main.deaf51bd.css.map": "/kovi-designs/static/css/main.deaf51bd.css.map",
-    "main.e59d8300.js.map": "/kovi-designs/static/js/main.e59d8300.js.map"
+    "main.css": "/static/css/main.deaf51bd.css",
+    "main.js": "/static/js/main.273abeec.js",
+    "static/media/bg.jpg": "/static/media/bg.d69bbe3b19153541a1f7.jpg",
+    "static/media/bg2.jpg": "/static/media/bg2.6427d3dac98d4bde9e67.jpg",
+    "static/media/bg1.jpg": "/static/media/bg1.464f843922b808e445d4.jpg",
+    "static/media/bed1.jpg": "/static/media/bed1.beac9b247592fc25d28e.jpg",
+    "static/media/sofa3.jpg": "/static/media/sofa3.7cd0e1e1eace30d2b3cf.jpg",
+    "static/media/sofa.jpg": "/static/media/sofa.75d5d7ae87e4a7afe199.jpg",
+    "static/media/beds.jpg": "/static/media/beds.63b63c68a4ce9719bb48.jpg",
+    "static/media/dining.jpg": "/static/media/dining.fdf2cf97504a32bf3a1f.jpg",
+    "static/media/bed2.jpg": "/static/media/bed2.11d6401cb5bdc96057e0.jpg",
+    "static/media/table.jpg": "/static/media/table.f88330ef55358801b7d1.jpg",
+    "static/media/table2.jpg": "/static/media/table2.149b6010c0858931b4f3.jpg",
+    "static/media/bed3.jpg": "/static/media/bed3.bbd3d8cec583f8cad0a7.jpg",
+    "static/media/bed.jpg": "/static/media/bed.a190ea4c053eace5adf4.jpg",
+    "static/media/sofa1.jpg": "/static/media/sofa1.655b12bf836dbd3435c2.jpg",
+    "static/media/sofa2.jpg": "/static/media/sofa2.e5d71456b583e25be33c.jpg",
+    "static/media/table1.jpg": "/static/media/table1.05deda6dd9acfd279101.jpg",
+    "index.html": "/index.html",
+    "main.deaf51bd.css.map": "/static/css/main.deaf51bd.css.map",
+    "main.273abeec.js.map": "/static/js/main.273abeec.js.map"
   },
   "entrypoints": [
     "static/css/main.deaf51bd.css",
-    "static/js/main.e59d8300.js"
+    "static/js/main.273abeec.js"
   ]
 }
