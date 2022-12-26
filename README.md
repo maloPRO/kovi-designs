@@ -7,3 +7,6 @@ A landing page for browsing through a catalog of available furniture.
 - React JS
 - npm
 - Git
+
+### Live preview
+[Kovi Designs](https://github.com/malopro/kovi-designs)
