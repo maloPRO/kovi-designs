@@ -11,17 +11,17 @@ const Categories = (props) => {
       {
         name: 'beds',
         id: uniqid(),
-        link: `/beds/`
+        link: `/beds`
       },
       {
         name: 'sofas',
         id: uniqid(),
-        link: `/sofas/`
+        link: `/sofas`
       },
       {
         name: 'tables',
         id: uniqid(),
-        link: '/tables/'
+        link: '/tables'
       },
       {
         name: 'dining',
