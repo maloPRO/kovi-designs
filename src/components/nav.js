@@ -7,14 +7,14 @@ const Nav = () => {
   return (
     <div className="nav">
       <div className='siteDetails'>
-      <Link to={'/'} className='siteName'>Kovi <span>Designs</span></Link>
+      <Link to={`${process.env.PUBLIC_URL}/`} className='siteName'>Kovi <span>Designs</span></Link>
       <div className='siteSlogan'>
         <p>Modern furniture</p>
         <p>for home & office</p>
       </div>
       </div>
       <div className='comms'>
-        <Link className='navLink' to={'/'}>Home</Link>
+        <Link className='navLink' to={ `${process.env.PUBLIC_URL}/`}>Home</Link>
         <Link className='navLink'>About</Link>
         <Link className='navLink'>Contact</Link>
       </div>

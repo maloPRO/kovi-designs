@@ -8,19 +8,19 @@ import Tables from './tables';
 function App() {
   const router =   createBrowserRouter([
     {
-      path: '/',
+      path: `${process.env.PUBLIC_URL}/`,
       element: <Home/>
     },
     {
-      path: '/beds',
+      path: `${process.env.PUBLIC_URL}/beds`,
       element: <Beds />
     },
     {
-      path: '/sofas',
+      path: `${process.env.PUBLIC_URL}/sofas`,
       element: <Sofas />
     },
     {
-      path: '/tables',
+      path: `${process.env.PUBLIC_URL}/tables`,
       element: <Tables />
     }
   ])

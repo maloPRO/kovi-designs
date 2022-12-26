@@ -11,17 +11,17 @@ const Categories = (props) => {
       {
         name: 'beds',
         id: uniqid(),
-        link: `/beds`
+        link: `${process.env.PUBLIC_URL}/beds`,
       },
       {
         name: 'sofas',
         id: uniqid(),
-        link: `/sofas`
+        link: `${process.env.PUBLIC_URL}/sofas`
       },
       {
         name: 'tables',
         id: uniqid(),
-        link: '/tables'
+        link: `${process.env.PUBLIC_URL}/tables`
       },
       {
         name: 'dining',
