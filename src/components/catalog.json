@@ -1,0 +1,81 @@
+[
+  { 
+    "category": "beds",
+    "name": "Bed Degrass",
+    "image": "../images/items/bed.jpg",
+    "id": "uniqid()",
+    "price": "KES 50,300"
+  },
+  {
+    "category": "beds",
+    "name": "Prana Mexicano",
+    "image": "../images/items/bed1.jpg",
+    "id": "uniqid()",
+    "price": "KES 33,000"
+  },
+  {
+    "category": "beds",
+    "name": "Campara Hardwood",
+    "image": "../images/items/bed2.jpg",
+    "id": "uniqid()",
+    "price": "KES 42,000"
+  },
+  {
+    "category": "beds",
+    "name": "Ventura bed",
+    "image": "../images/items/bed3.jpg",
+    "id": "uniqid()",
+    "price": "KES 30,100"
+  },
+  {
+    "category": "sofas",
+    "name": "Brazilian Box Sofa",
+    "image": "../images/items/sofa.jpg",
+    "id": "uniqid()",
+    "price": "KES 30,300"
+  },
+  {
+    "category": "sofas",
+    "name": "Prana Sofa",
+    "image": "../images/items/sofa1.jpg" ,
+    "id": "uniqid()",
+    "price": "KES 43,000"
+  },
+  {
+    "category": "sofas",
+    "name": "Ventura Sofa",
+    "image": "../images/items/sofa2.jpg" ,
+    "id": "uniqid()",
+    "price": "KES 40,700"
+  },
+  {
+    "category": "sofas",
+    "name": "Campa Sofa",
+    "image": "../images/items/sofa3.jpg",
+    "id": "uniqid()",
+      "price": "KES 60,300"
+  },
+  {
+    "category": "tables",
+    "name": "Caracha table",
+    "image": "../images/items/table.jpg",
+    "id": "uniqid()",
+    "price": "KES 20,900"
+  },
+  {
+    "name": "Prana table",
+    "image": "../images/items/table1.jpg",
+    "id": "uniqid()",
+    "price": "KES 23,000"
+  },
+  {
+    "name": "Ventura table",
+    "image": "../images/items/table2.jpg",
+    "id": "uniqid()",
+    "price": "KES 10,700"
+  }
+]
+
+
+
+
