@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/kovi-designs/static/css/main.deaf51bd.css",
-    "main.js": "/kovi-designs/static/js/main.02efea7b.js",
+    "main.css": "/kovi-designs/static/css/main.a607b0bc.css",
+    "main.js": "/kovi-designs/static/js/main.0f7b5c29.js",
     "static/media/bg.jpg": "/kovi-designs/static/media/bg.d69bbe3b19153541a1f7.jpg",
     "static/media/bg2.jpg": "/kovi-designs/static/media/bg2.6427d3dac98d4bde9e67.jpg",
     "static/media/bg1.jpg": "/kovi-designs/static/media/bg1.464f843922b808e445d4.jpg",
@@ -19,11 +19,11 @@
     "static/media/sofa2.jpg": "/kovi-designs/static/media/sofa2.e5d71456b583e25be33c.jpg",
     "static/media/table1.jpg": "/kovi-designs/static/media/table1.05deda6dd9acfd279101.jpg",
     "index.html": "/kovi-designs/index.html",
-    "main.deaf51bd.css.map": "/kovi-designs/static/css/main.deaf51bd.css.map",
-    "main.02efea7b.js.map": "/kovi-designs/static/js/main.02efea7b.js.map"
+    "main.a607b0bc.css.map": "/kovi-designs/static/css/main.a607b0bc.css.map",
+    "main.0f7b5c29.js.map": "/kovi-designs/static/js/main.0f7b5c29.js.map"
   },
   "entrypoints": [
-    "static/css/main.deaf51bd.css",
-    "static/js/main.02efea7b.js"
+    "static/css/main.a607b0bc.css",
+    "static/js/main.0f7b5c29.js"
   ]
 }
