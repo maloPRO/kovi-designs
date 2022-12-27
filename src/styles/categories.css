@@ -29,7 +29,7 @@
   min-height: fit-content;
   display: grid;
   gap: 15px;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(250px, .7fr));
   padding: 10px 0;
 }
 .images {
@@ -57,4 +57,16 @@
 }
 .itemPrice {
   font-family: monospace;
+}
+
+@media  (max-width: 500px) {
+  .categoryDisplay {
+    justify-content: center;
+  }
+  .category {
+    padding: 5px;
+  }
+  .categoryTitle {
+    text-align: center;
+  }
 }

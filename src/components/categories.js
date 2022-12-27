@@ -29,12 +29,12 @@ const Categories = (props) => {
 
       },
       {
-        name: 'tv stands',
+        name: 'stands',
         id: uniqid(),
         
       },
       {
-        name: 'door fittings',
+        name: 'fittings',
         id: uniqid(),
       
       },
@@ -48,7 +48,7 @@ const Categories = (props) => {
 
   return (
     <div className="categories">
-      <div>{categoryList}</div>
+      {categoryList}
     </div>
   )
 }
