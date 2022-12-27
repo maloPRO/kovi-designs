@@ -9,4 +9,4 @@ A landing page for browsing through a catalog of available furniture.
 - Git
 
 ### Live preview
-[Kovi Designs](https://github.com/malopro/kovi-designs)
+[Kovi Designs](https://malopro.github.io/kovi-designs/)
