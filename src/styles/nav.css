@@ -40,8 +40,15 @@
   cursor: pointer;
   color: #eab308;
 }
-
-
+.cartIcon {
+  width: 1rem;
+}
+.navLink:last-child {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: .7rem;
+}
 @media (max-width: 500px) {
   .nav {
     width: 100%;

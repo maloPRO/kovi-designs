@@ -1,6 +1,7 @@
 import React from 'react';
 import {  Link } from 'react-router-dom'
 import '../styles/nav.css';
+import cartIcon from '../images/carts.png';
 
 const Nav = () => {
 
@@ -17,6 +18,7 @@ const Nav = () => {
         <Link className='navLink' to={ `${process.env.PUBLIC_URL}/`}>Home</Link>
         <Link className='navLink'>About</Link>
         <Link className='navLink'>Contact</Link>
+        <Link className='navLink'><img className='cartIcon' alt='' src={cartIcon} ></img>10</Link>
       </div>
     </div>
   )
