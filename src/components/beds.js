@@ -7,6 +7,7 @@ import bed from '../images/items/bed.jpg';
 import bed1 from '../images/items/bed1.jpg';
 import bed2 from '../images/items/bed2.jpg';
 import bed3 from '../images/items/bed3.jpg';
+import cartIcon from '../images/carts.png';
 
 const Beds = () => {
 
@@ -42,6 +43,8 @@ const Beds = () => {
       <img className="images" src={bedPic.image} alt=''></img>
       <p className="itemName">{bedPic.name}</p>
       <p className="itemPrice">{bedPic.price}</p>
+      <p className="addToCart">Add to cart</p>
+      
     </div>
   )
 
