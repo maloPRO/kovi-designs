@@ -7,7 +7,6 @@ import bed from '../images/items/bed.jpg';
 import bed1 from '../images/items/bed1.jpg';
 import bed2 from '../images/items/bed2.jpg';
 import bed3 from '../images/items/bed3.jpg';
-import cartIcon from '../images/carts.png';
 
 const Beds = () => {
 
