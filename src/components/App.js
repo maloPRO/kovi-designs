@@ -4,6 +4,8 @@ import Home from './home';
 import Sofas from './sofas';
 import Beds from  './beds';
 import Tables from './tables';
+import Cart from './cart';
+
 
 function App() {
   const router =   createBrowserRouter([
@@ -22,6 +24,10 @@ function App() {
     {
       path: `${process.env.PUBLIC_URL}/tables`,
       element: <Tables />
+    },
+    {
+      path: `${process.env.PUBLIC_URL}/cart`,
+      element: <Cart />
     }
   ])
   return (
