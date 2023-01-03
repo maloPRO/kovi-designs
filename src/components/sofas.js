@@ -42,6 +42,7 @@ const Sofas = () => {
       <img className="images" src={sofaPic.image} alt=''></img>
       <p className="itemName">{sofaPic.name}</p>
       <p className="itemPrice">{sofaPic.price}</p>
+      <p className="addToCart">Add to cart</p>
     </div>
   )
 

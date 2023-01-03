@@ -35,6 +35,7 @@ const Tables = () => {
       <img className="images" src={tablePic.image} alt=''></img>
       <p className="itemName">{tablePic.name}</p>
       <p className="itemPrice">{tablePic.price}</p>
+      <p className="addToCart">Add to cart</p>
     </div>
   )
 
