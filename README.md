@@ -5,6 +5,7 @@ A landing page for browsing through a catalog of available furniture.
 
 ## Built with 
 - React JS
+- React router
 - npm
 - Git
 
